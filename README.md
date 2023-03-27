@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmitGurbani](https://github.com/AmitGurbani)
 
-- 💬 Ask me about **vue, nuxt, vuetify, firebase etc.**
+- 💬 Ask me about **vue, react, firebase etc.**
 
 - 📫 How to reach me **amit1994.gurbani@gmail.com**
 

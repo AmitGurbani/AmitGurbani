@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **svelte**
 
-- 👯 I’m looking to collaborate on **vue, nuxt and JS projects**
+- 👯 I’m looking to collaborate on **vue, react and JS projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmitGurbani](https://github.com/AmitGurbani)
 

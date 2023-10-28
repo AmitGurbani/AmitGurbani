@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gurbani_amit" target="blank"><img src="https://img.shields.io/twitter/follow/gurbani_amit?logo=twitter&style=for-the-badge" alt="gurbani_amit" /></a> </p>
 
-- 👯 I’m looking to collaborate on **vue, react and JS projects**
+- 👯 I’m looking to collaborate on **vue, react and JS/TS projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmitGurbani](https://github.com/AmitGurbani)
 
